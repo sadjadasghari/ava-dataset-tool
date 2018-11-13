@@ -1,0 +1,4 @@
+svgwrite
+opencv-python
+ffmpeg
+
